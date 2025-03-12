@@ -1,0 +1,16 @@
+Campaign_ID,Campaign_Name,Source,Start_Date,End_Date,Total_Cost
+1,Summer Campaign 2023,Google Ads,2023-06-01,2023-06-30,5000
+2,Black Friday 2023,Facebook Ads,2023-11-20,2023-11-27,10000
+3,App Launch,Email Marketing,2023-09-01,2023-09-15,3000
+4,Winter Promotion,Instagram Ads,2023-07-01,2023-07-31,7000
+5,Autumn Campaign,Google Ads,2023-04-01,2023-04-30,4500
+6,Cyber Monday 2023,Facebook Ads,2023-11-27,2023-11-30,8000
+7,Annual Discount,Email Marketing,2023-12-01,2023-12-31,6000
+8,Product X Launch,LinkedIn Ads,2023-08-01,2023-08-15,5500
+9,Spring Campaign,Google Ads,2023-03-01,2023-03-31,4000
+10,Christmas Promotion,Instagram Ads,2023-12-15,2023-12-25,9000
+11,New Year Sale,Google Ads,2023-12-26,2024-01-05,7500
+12,Valentine's Day,Facebook Ads,2024-02-10,2024-02-14,6000
+13,Back to School,Email Marketing,2023-08-01,2023-08-31,5000
+14,Summer Flash Sale,Instagram Ads,2023-07-15,2023-07-20,4000
+15,Halloween Special,Google Ads,2023-10-25,2023-10-31,5500
